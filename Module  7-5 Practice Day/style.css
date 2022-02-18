@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    margin: 40px 0;
+}
+section{
+    display: none;
+}
+.header-area{
+    display: flex;
+    margin: auto;
+}
+.box{
+    width: 26% ; 
+    margin-left: 4%;
+    border-radius: 5%;
+    padding: 20px 10px 0 20px;
+}
+#box-a{
+    background-color: aqua;
+}
+#box-b{
+    background-color: forestgreen;
+}
+#box-c{
+    background-color: wheat;
+}
